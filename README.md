@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Shahil-coder/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/Shahil-coder/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [2409-count-days-spent-together](https://github.com/Shahil-coder/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 ## Stack
